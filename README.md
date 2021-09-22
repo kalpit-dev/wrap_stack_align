@@ -7,4 +7,4 @@ Wrap
 
 Stack And Align
 
-![Screenshot 2021-09-22 at 11 15 56 PM](https://user-images.githubusercontent.com/10877701/134398595-2996d1d5-72bd-4268-9c67-f91057e1948f.png)
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-22 at 23 40 49](https://user-images.githubusercontent.com/10877701/134398667-4ad2f6de-f81c-4342-a0b6-e7f5af8323be.png)
